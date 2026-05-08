@@ -58,8 +58,6 @@ src/
 
 ---
 
-# Funcionalidades
-
 ## Filmes
 
 - Criar filme
